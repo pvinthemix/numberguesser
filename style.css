@@ -63,6 +63,10 @@ body {
   margin: 10px;
 }
 
+.onehundred {
+  font-weight: 700;
+}
+
 .guess-button:hover{
   background-color: #ED458B
 }
